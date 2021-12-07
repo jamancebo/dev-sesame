@@ -14,7 +14,7 @@ Podeis ver que he utilizado
     - Docker
 
 # **Prerquisitos**
-
+Hay que acceder a la carpeta de app y realizar desde la consola: https://github.com/jamancebo/app-dev-sesame.git
 Cuando se levante docker hay que crear una bd igual que la que realiza docker pero con el nombre de dev_sesame_test para los test
 
 
